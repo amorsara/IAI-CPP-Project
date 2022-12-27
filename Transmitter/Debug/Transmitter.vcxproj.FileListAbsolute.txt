@@ -1,0 +1,2 @@
+D:\bootcamp\c++\kama\Transmitter\Debug\Transmitter.exe
+D:\bootcamp\c++\kama\Transmitter\Debug\Transmitter.pdb

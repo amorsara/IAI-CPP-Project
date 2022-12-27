@@ -1,0 +1,5 @@
+C:\Users\user1\Downloads\project\project\project\MessageGenerator\Debug\MessageGenerator.exe
+C:\Users\user1\Downloads\שרי\MessageGenerator\Debug\MessageGenerator.exe
+C:\Users\user1\Downloads\שרי\MessageGenerator\Debug\MessageGenerator.pdb
+E:\Sara Amor\MessageGenerator\Debug\MessageGenerator.exe
+E:\Sara Amor\MessageGenerator\Debug\MessageGenerator.pdb

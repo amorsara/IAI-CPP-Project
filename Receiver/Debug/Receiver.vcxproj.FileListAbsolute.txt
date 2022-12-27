@@ -1,0 +1,2 @@
+D:\bootcamp\c++\kama\Receiver\Debug\Receiver.exe
+D:\bootcamp\c++\kama\Receiver\Debug\Receiver.pdb
